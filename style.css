@@ -1,0 +1,57 @@
+body{
+  margin: 0px;
+  
+}
+
+
+header{
+  min-height: 60px;
+  position:sticky;
+  top: 0px;
+  font-style: italic;
+  box-shadow: 0 2px 5px 1px rgba(64, 60, 67, .16);
+  margin:0;
+  background-color: aliceblue;
+  text-align: center;
+
+
+}
+
+h1{
+  color: rgb(0, 12, 12);
+  
+
+  
+}
+h2{
+  
+  color: blue;
+}
+
+h3{
+  font-style: italic;
+  color: darkmagenta;
+}
+aside{
+  position: fixed;
+  top: 80px;
+  width: 250px;
+  height:100vh;
+  box-shadow: 0 2px 5px 1px rgba(64, 60, 67, .16);
+  background-color: rgb(248, 242, 233);
+ 
+  
+}
+main{
+  min-height: 25vh;
+  margin-left: 250px;
+  padding: 16px;
+  background-color: white;
+  top:0px;
+  background-color: bisque;
+}
+footer{
+  margin-left: 250px;
+  padding: 16px;
+
+}
